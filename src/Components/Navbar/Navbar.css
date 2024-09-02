@@ -1,0 +1,20 @@
+.navigation{
+    display: flex !important;
+    padding: 8px !important;
+    font-size: medium !important;
+    border-bottom: 1px solid #ccc !important;
+    background-color: #9FB6C3 !important;
+}
+.dropdown-menu{
+    background-color: #9FB6C3 !important;
+}
+
+.navigation a{
+    text-decoration: none;
+    color: black;
+    margin: auto;
+}
+
+.navigation img{
+    width: 50px;
+}

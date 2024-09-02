@@ -1,0 +1,16 @@
+/* #3e5172	(62,81,114)
+#f9b49b	(249,180,155)
+#9fb6c3	(159,182,195)
+#f9e9de	(249,233,222)
+#cc6c5c	(204,108,92) */
+
+.homepage {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: #f9b49b;
+  }
+  
+  .content-wrap {
+    flex: 1;
+  }
